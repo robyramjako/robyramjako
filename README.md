@@ -1,8 +1,8 @@
 # Halo, Aku Roby Ramjako 👋
 
-🎓 Mahasiswa Teknologi Informasi di Institut Teknologi Tangerang Selatan
-🔐 Learning Cyber Security
-🤖 Exploring Generative AI
+🎓 Mahasiswa Teknologi Informasi di Institut Teknologi Tangerang Selatan<br>
+🔐 Learning Cyber Security<br>
+🤖 Exploring Generative AI<br>
 🌱 Currently learning: Python & Networking
 
 ## 🛠️ Tools & Tech
@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robyramjako&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/roby-ramjako)
