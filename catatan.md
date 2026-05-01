@@ -1,1 +1,0 @@
-# Belajar Git pertama kali!
